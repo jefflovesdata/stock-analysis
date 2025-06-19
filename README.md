@@ -36,6 +36,6 @@ Based on the analysis, several future steps could be taken to expand on this pro
 
 ### Final Dashboard
 
-![Stock Market Dashboard](2025-06-18_18-16-21%20Stock%20Market%20Dashboard.png)
+![Stock Market Analysis Dashboard](https://drive.google.com/uc?export=view&id=1cFbZTTXYDA0i5zOnG3Iaf3JxEOiftYKJ)
 
 **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/StockMarketDashboard_17502922842120/StockMarketDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** 
