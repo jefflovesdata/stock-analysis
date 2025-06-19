@@ -33,3 +33,9 @@ Based on the analysis, several future steps could be taken to expand on this pro
 * **Investigate Outliers:** A deeper analysis should be conducted on the extreme volume changes found in the Apple data to determine if they correspond to real-world events like stock splits or major news announcements.
 * **Incorporate Advanced Modeling:** The engineered features (e.g., moving averages, lagged variables) provide a strong foundation for building predictive models. Time-series forecasting models like ARIMA or machine learning models could be developed to predict future stock movements.
 * **Expand the Dataset:** To create an even richer analysis, other data sources could be integrated, such as market sentiment data from news headlines or social media, or macroeconomic indicators that could influence the tech sector.
+
+### Final Dashboard
+
+![Stock Market Dashboard](2025-06-18_18-16-21%20Stock%20Market%20Dashboard.png)
+
+**[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/StockMarketDashboard_17502922842120/StockMarketDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** 
